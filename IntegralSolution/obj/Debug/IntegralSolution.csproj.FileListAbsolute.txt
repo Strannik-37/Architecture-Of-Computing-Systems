@@ -71,3 +71,28 @@ D:\Программы\Параллельное программирование\
 D:\Программы\Параллельное программирование\Архитектура\IntegralSolution\IntegralSolution\obj\Debug\IntegralSolution.csproj.CopyComplete
 D:\Программы\Параллельное программирование\Архитектура\IntegralSolution\IntegralSolution\obj\Debug\IntegralSolution.exe
 D:\Программы\Параллельное программирование\Архитектура\IntegralSolution\IntegralSolution\obj\Debug\IntegralSolution.pdb
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\IntegralSolution.exe.config
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\IntegralSolution.exe
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\IntegralSolution.pdb
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\CalculateLibrary.dll
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\OxyPlot.dll
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\OxyPlot.Wpf.dll
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\System.ValueTuple.dll
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\CalculateLibrary.pdb
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\OxyPlot.xml
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\OxyPlot.Wpf.xml
+D:\Architecture-Of-Computing-Systems\IntegralSolution\bin\Debug\System.ValueTuple.xml
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.csprojAssemblyReference.cache
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\MainWindow.g.cs
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\App.g.cs
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution_MarkupCompile.cache
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution_MarkupCompile.lref
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\MainWindow.baml
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.g.resources
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.Properties.Resources.resources
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.csproj.GenerateResource.cache
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.csproj.CoreCompileInputs.cache
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.csproj.CopyComplete
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.exe
+D:\Architecture-Of-Computing-Systems\IntegralSolution\obj\Debug\IntegralSolution.pdb

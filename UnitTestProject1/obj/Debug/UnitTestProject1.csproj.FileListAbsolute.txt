@@ -26,3 +26,31 @@ D:\Программы\Параллельное программирование\
 D:\Программы\Параллельное программирование\Архитектура\IntegralSolution\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 D:\Программы\Параллельное программирование\Архитектура\IntegralSolution\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\Программы\Параллельное программирование\Архитектура\IntegralSolution\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\CalculateLibrary.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\IntegralSolution.exe
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\OxyPlot.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\OxyPlot.Wpf.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\CalculateLibrary.pdb
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\IntegralSolution.pdb
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\IntegralSolution.exe.config
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\OxyPlot.xml
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\OxyPlot.Wpf.xml
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\bin\Debug\System.ValueTuple.xml
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Architecture-Of-Computing-Systems\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
