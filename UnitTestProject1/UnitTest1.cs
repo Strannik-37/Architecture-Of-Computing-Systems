@@ -11,12 +11,12 @@ namespace IntegralSolution
         [TestMethod]
         public void Intergrate_xx_Gives_Correct_Result_Rectangle()
         {
-            double expected = 49372.2163;
-            double a = 1;
+            double expected = 333333.3333;
+            double a = 0;
             double b = 100;
             long n = 1000000;
             RectangleCalculator rectangleCalculator = new RectangleCalculator();
-            Func<double, double> f = x => 10 * x - Math.Log(14 * x);
+            Func<double, double> f = x => x * x;
 
             //act
             double actual = rectangleCalculator.Calculate(a, b, n, f);
@@ -30,12 +30,12 @@ namespace IntegralSolution
         [TestMethod]
         public void Intergrate_xx_Gives_Correct_Result_Trap()
         {
-            double expected = 49372.2163;
-            double a = 1;
+            double expected = 333333.3333;
+            double a = 0;
             double b = 100;
             long n = 1000000;
             TrapCalculator trapCalculator = new TrapCalculator();
-            Func<double, double> f = x => 10 * x - Math.Log(14 * x);
+            Func<double, double> f = x => x * x;
 
             //act
             double actual = trapCalculator.Calculate(a, b, n, f);
@@ -106,24 +106,6 @@ namespace IntegralSolution
 
             Assert.IsNotNull(expected); //Утверждает, что переменная присвоена объектной ссылке
 
-        }
-
-        [TestMethod]
-        public void Error_if_a_and_b_below_zero()
-        {
-            double expected = 174591.027;
-            int a = -1;
-            int b = -100;
-            int n = 100;
-            Func<double, double> f = x => 10 * x - Math.Log(14 * x);
-
-            RectangleCalculator RectangleCalculator = new RectangleCalculator();
-            TrapCalculator TrapCalculator = new TrapCalculator();
-
-
-            //act
-            double actual1 = RectangleCalculator.Calculate(a, b, n, f);
-            double actual2 = TrapCalculator.Calculate(a, b, n, f);
         }
 
 
