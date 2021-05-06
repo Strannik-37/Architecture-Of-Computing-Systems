@@ -50,6 +50,9 @@
             <ComboBoxItem>
                 Метод трапеций
             </ComboBoxItem>
+            <ComboBoxItem>
+                Метод Симпсона
+            </ComboBoxItem>
         </ComboBox>
 
         <oxy:Plot x:Name="graph" Title="{Binding Title}" Grid.Row="5" Margin="0,26,0,4" Grid.ColumnSpan="3">
