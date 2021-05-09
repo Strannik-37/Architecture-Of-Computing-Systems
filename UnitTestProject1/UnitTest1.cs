@@ -47,6 +47,25 @@ namespace IntegralSolution
         }
 
         [TestMethod]
+        public void Intergrate_xx_Gives_Correct_Result_Simpson()
+        {
+            double expected = 333333.3333;
+            double a = 0;
+            double b = 100;
+            long n = 1000000;
+            Simpson SimpsonCalculator = new Simpson();
+            Func<double, double> f = x => x * x;
+
+            //act
+            double actual = SimpsonCalculator.Calculate(a, b, n, f);
+
+            //assert
+
+            Assert.AreEqual(expected, actual, 0.0001);//Утверждает, что два объекта типа T имеют одно и то же значение
+
+        }
+
+        [TestMethod]
         public void Intergrate_xx_Gives_0()
         {
             //arrange
